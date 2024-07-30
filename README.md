@@ -53,6 +53,7 @@ To run the Food So application locally, follow these steps:
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm run dev`
 5. Open your web browser and visit `http://localhost:5173/` to see the application in action.
+6. deployment https://madi-resturent.vercel.app/
 
 ## Conclusion
 

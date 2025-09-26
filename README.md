@@ -48,7 +48,7 @@ The Food So application is designed to be responsive, ensuring a seamless user e
 
 To run the Food So application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/HamdiNur/Madi-resturent`
+1. Clone the repository: git clone ` https://github.com/HamdiNur/Madi-resturent`
 2. Navigate to the project directory: `cd fontend`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm run dev`

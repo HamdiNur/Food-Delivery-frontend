@@ -28,9 +28,9 @@ const StoreContextProvider = (props) => {
         {}, // body can be empty if backend uses token to identify user
         { headers: { token } }
       );
-      if (response.data && response.data.cart) {
-        setCartItems(response.data.cart);
-      }
+   if (response.data && response.data.cartData) {
+  setCartItems(response.data.cartData);
+}
     } catch (err) {
       console.error("Error loading cart from backend:", err);
     }
